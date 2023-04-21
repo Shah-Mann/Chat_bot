@@ -1,6 +1,6 @@
 const CLIENT_ID =
-  "15608422794-s4932alj3n426j54mlkluoq1cvhhn26q.apps.googleusercontent.com";
-const API_KEY = "AIzaSyBmL9Oz6zHe6DgaBBKbyd26WcF-z3bQUIo";
+  "Your Client Id";
+const API_KEY = "Your API Keys";
 
 const DISCOVERY_DOC =
   "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest";
